@@ -1,10 +1,5 @@
 ﻿node_modules/
-client/node_modules/
-server/node_modules/
-dist/
-.vite/
 .env
 .env.local
+dist/
 .env.production
-.DS_Store
-*.log
